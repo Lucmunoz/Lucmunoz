@@ -1,4 +1,4 @@
-Proyecto en github pages: https://github.com/Lucmunoz/Lucmunoz.github.io
+Proyecto en github pages: https://Lucmunoz.github.io
 
 Se forkearon y realizaron commit a los siguientes repositorios:
 
